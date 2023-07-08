@@ -1,0 +1,23 @@
+{
+  "name": "auto-mixin-texts",
+  "version": "1.0.0",
+  "description": "SCSS Auto Mixin and Color Creator",
+  "main": "src/code.ts",
+  "scripts": {
+    "build": "webpack",
+    "watch": "npm run build -- --watch"
+  },
+  "type": "module",
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "*",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.1.6",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "@figma-plugin/helpers": "^0.15.2"
+  }
+}
