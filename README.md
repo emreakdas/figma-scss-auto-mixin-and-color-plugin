@@ -15,3 +15,5 @@ These definitions are skipped (not included in the output).
 - Open Figma and import the manifest.json file
 
 You are ready to start development!
+
+<img src="https://i.hizliresim.com/rjieb5q.png" width="300"> <img src="https://i.hizliresim.com/a5ba8sw.png" width="300"> <img src="https://i.hizliresim.com/3a9xrxx.png" width="300">
